@@ -1,0 +1,2 @@
+GT4500,1,1,1,0 # The first will fail always, and the ship will not fire another one from anywhere
+TORPEDO,SINGLE # Should be Fail

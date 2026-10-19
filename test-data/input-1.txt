@@ -1,0 +1,2 @@
+GT4500,1,0,0,0 # Only the primary has a torpedo
+TORPEDO,SINGLE # Should be Success as primary fires first.
