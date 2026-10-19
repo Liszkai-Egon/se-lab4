@@ -1,0 +1,2 @@
+SUCCESS
+SUCCESS # Even though only one of the stores fired.

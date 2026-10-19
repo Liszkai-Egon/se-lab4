@@ -1,0 +1,2 @@
+GT4500,1,0,0,0 # Only the primary has a torpedo
+TORPEDO,ALL # Should be Success, but only one of them fire.

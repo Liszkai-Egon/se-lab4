@@ -1,0 +1,2 @@
+SUCCESS # GT4500
+FAIL    # As chance was 1 it was doomed to fail.

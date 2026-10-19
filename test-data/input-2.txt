@@ -1,0 +1,5 @@
+GT4500,2,0,1,0 # Both have only 1 torpedo
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+# Should be Success as firing alternates.

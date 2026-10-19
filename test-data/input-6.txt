@@ -1,0 +1,3 @@
+GT4500,1,0,1,0 # Both have at least 1 torpedo.
+TORPEDO,ALL # Should be Success
+TORPEDO,ALL # But this not so much

@@ -1,0 +1,2 @@
+GT4500,0,0,1,0 # Only the secondary has a torpedo
+TORPEDO,SINGLE # Should be Success as firing tries primary first but then retries with secondary.
